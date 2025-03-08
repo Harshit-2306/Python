@@ -1,6 +1,6 @@
 list = ["kane","15000","47.6","new_zeland"]
 print(list[0])
-print(list[0:4])
+print(list[0:4:2])
 
 list.append("harshit")
 print(list)
